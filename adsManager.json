@@ -4,9 +4,9 @@
 	    {
 		
 		"networkads":"admob",
-		"banneradmob":"ca-app-pub-3940256099942544/6300978111",
-		"interstitialadmob":"ca-app-pub-3940256099942544/1033173712",
-		"nativeadmob":"ca-app-pub-3940256099942544/2247696110",
+		"banneradmob":"ca-app-pub-1621202560400482/6853709426",
+		"interstitialadmob":"ca-app-pub-1621202560400482/4140750324",
+		"nativeadmob":"ca-app-pub-1621202560400482/5262260307",
 		"interstitialEachShow":2,
 		"startapp":false
 	   }
